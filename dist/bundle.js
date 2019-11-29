@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "314aada91ad2d6e0dddc";
+/******/ 	var hotCurrentHash = "7581cb89febad54a7654";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -44236,8 +44236,8 @@ var _default = Object(react_hot_loader_root__WEBPACK_IMPORTED_MODULE_5__["hot"])
     return;
   }
 
-  reactHotLoader.register(App, "App", "D:\\react-train\\src\\components\\App.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\App.js");
+  reactHotLoader.register(App, "App", "d:\\react-train\\src\\components\\App.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\App.js");
 })();
 
 ;
@@ -44444,8 +44444,8 @@ var _default = Battle;
     return;
   }
 
-  reactHotLoader.register(Battle, "Battle", "D:\\react-train\\src\\components\\Battle.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Battle.js");
+  reactHotLoader.register(Battle, "Battle", "d:\\react-train\\src\\components\\Battle.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Battle.js");
 })();
 
 ;
@@ -44673,8 +44673,8 @@ var _default = Battlegame;
     return;
   }
 
-  reactHotLoader.register(Battlegame, "Battlegame", "D:\\react-train\\src\\components\\Battlegame.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Battlegame.js");
+  reactHotLoader.register(Battlegame, "Battlegame", "d:\\react-train\\src\\components\\Battlegame.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Battlegame.js");
 })();
 
 ;
@@ -44832,8 +44832,8 @@ var _default = Battleresult;
     return;
   }
 
-  reactHotLoader.register(Battleresult, "Battleresult", "D:\\react-train\\src\\components\\Battleresult.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Battleresult.js");
+  reactHotLoader.register(Battleresult, "Battleresult", "d:\\react-train\\src\\components\\Battleresult.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Battleresult.js");
 })();
 
 ;
@@ -45048,8 +45048,8 @@ var _default = Battlerule;
     return;
   }
 
-  reactHotLoader.register(Battlerule, "Battlerule", "D:\\react-train\\src\\components\\Battlerule.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Battlerule.js");
+  reactHotLoader.register(Battlerule, "Battlerule", "d:\\react-train\\src\\components\\Battlerule.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Battlerule.js");
 })();
 
 ;
@@ -45196,9 +45196,9 @@ var _default = Card;
     return;
   }
 
-  reactHotLoader.register(istyle, "istyle", "D:\\react-train\\src\\components\\Card.js");
-  reactHotLoader.register(Card, "Card", "D:\\react-train\\src\\components\\Card.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Card.js");
+  reactHotLoader.register(istyle, "istyle", "d:\\react-train\\src\\components\\Card.js");
+  reactHotLoader.register(Card, "Card", "d:\\react-train\\src\\components\\Card.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Card.js");
 })();
 
 ;
@@ -45376,8 +45376,8 @@ var _default = Changeimg;
     return;
   }
 
-  reactHotLoader.register(Changeimg, "Changeimg", "D:\\react-train\\src\\components\\Changeimg.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Changeimg.js");
+  reactHotLoader.register(Changeimg, "Changeimg", "d:\\react-train\\src\\components\\Changeimg.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Changeimg.js");
 })();
 
 ;
@@ -45553,8 +45553,8 @@ var _default = Content;
     return;
   }
 
-  reactHotLoader.register(Content, "Content", "D:\\react-train\\src\\components\\Content.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Content.js");
+  reactHotLoader.register(Content, "Content", "d:\\react-train\\src\\components\\Content.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Content.js");
 })();
 
 ;
@@ -45649,8 +45649,8 @@ var _default = Footer;
     return;
   }
 
-  reactHotLoader.register(Footer, "Footer", "D:\\react-train\\src\\components\\Footer.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Footer.js");
+  reactHotLoader.register(Footer, "Footer", "d:\\react-train\\src\\components\\Footer.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Footer.js");
 })();
 
 ;
@@ -45780,10 +45780,10 @@ var _default = Header;
     return;
   }
 
-  reactHotLoader.register(ulstyle, "ulstyle", "D:\\react-train\\src\\components\\Header.js");
-  reactHotLoader.register(linkstyle, "linkstyle", "D:\\react-train\\src\\components\\Header.js");
-  reactHotLoader.register(Header, "Header", "D:\\react-train\\src\\components\\Header.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Header.js");
+  reactHotLoader.register(ulstyle, "ulstyle", "d:\\react-train\\src\\components\\Header.js");
+  reactHotLoader.register(linkstyle, "linkstyle", "d:\\react-train\\src\\components\\Header.js");
+  reactHotLoader.register(Header, "Header", "d:\\react-train\\src\\components\\Header.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Header.js");
 })();
 
 ;
@@ -45900,9 +45900,9 @@ var _default = Loading;
     return;
   }
 
-  reactHotLoader.register(lodingistyle, "lodingistyle", "D:\\react-train\\src\\components\\Loading.js");
-  reactHotLoader.register(Loading, "Loading", "D:\\react-train\\src\\components\\Loading.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Loading.js");
+  reactHotLoader.register(lodingistyle, "lodingistyle", "d:\\react-train\\src\\components\\Loading.js");
+  reactHotLoader.register(Loading, "Loading", "d:\\react-train\\src\\components\\Loading.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Loading.js");
 })();
 
 ;
@@ -46038,9 +46038,9 @@ var _default = Menu;
     return;
   }
 
-  reactHotLoader.register(navstyle, "navstyle", "D:\\react-train\\src\\components\\Menu.js");
-  reactHotLoader.register(Menu, "Menu", "D:\\react-train\\src\\components\\Menu.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Menu.js");
+  reactHotLoader.register(navstyle, "navstyle", "d:\\react-train\\src\\components\\Menu.js");
+  reactHotLoader.register(Menu, "Menu", "d:\\react-train\\src\\components\\Menu.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Menu.js");
 })();
 
 ;
@@ -46174,8 +46174,8 @@ var _default = PlayCard;
     return;
   }
 
-  reactHotLoader.register(PlayCard, "PlayCard", "D:\\react-train\\src\\components\\PlayCard.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\PlayCard.js");
+  reactHotLoader.register(PlayCard, "PlayCard", "d:\\react-train\\src\\components\\PlayCard.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\PlayCard.js");
 })();
 
 ;
@@ -46291,8 +46291,8 @@ var _default = Player;
     return;
   }
 
-  reactHotLoader.register(Player, "Player", "D:\\react-train\\src\\components\\Player.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Player.js");
+  reactHotLoader.register(Player, "Player", "d:\\react-train\\src\\components\\Player.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Player.js");
 })();
 
 ;
@@ -46411,8 +46411,8 @@ var _default = Pop;
     return;
   }
 
-  reactHotLoader.register(Pop, "Pop", "D:\\react-train\\src\\components\\Pop.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\Pop.js");
+  reactHotLoader.register(Pop, "Pop", "d:\\react-train\\src\\components\\Pop.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\Pop.js");
 })();
 
 ;
@@ -46595,8 +46595,8 @@ var _default = ResultCard;
     return;
   }
 
-  reactHotLoader.register(ResultCard, "ResultCard", "D:\\react-train\\src\\components\\ResultCard.js");
-  reactHotLoader.register(_default, "default", "D:\\react-train\\src\\components\\ResultCard.js");
+  reactHotLoader.register(ResultCard, "ResultCard", "d:\\react-train\\src\\components\\ResultCard.js");
+  reactHotLoader.register(_default, "default", "d:\\react-train\\src\\components\\ResultCard.js");
 })();
 
 ;
